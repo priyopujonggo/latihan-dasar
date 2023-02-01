@@ -1,0 +1,25 @@
+h1 {font: 50px georgia;
+color: #7FFFDA;
+}
+
+h2 {font: 30px serif;
+color: #00FFFF}
+
+p {font-family: serif;
+color: #AFEEEE;
+fontsize: 16px;
+line-height: 20px;
+text-align: justify;
+text-indent: 30px;
+word-spacing: 5px;
+}
+
+body {background-color: black;
+background-image: url(bg7.png);
+background-repeat: repeat-x;}
+
+
+
+
+
+
